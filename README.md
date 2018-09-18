@@ -9,3 +9,5 @@ If this is active have some bugs like a error elements.
 
 In finction InitMap() you can set your figure.
 Set the figure near center, or solution can make errors.
+
+Platform is MS Visual Studio 2015.
